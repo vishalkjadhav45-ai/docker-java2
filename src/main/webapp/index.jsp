@@ -1,14 +1,1 @@
-<html>
-<head>
-<title> Welcome to Deployment Day </title>
-</head>
-<body>
-
-<h1> Hello World</h1>
-
-<h3 style="color:green"> - 2.0.0 lived</h3>
-
-
-
-</body>
-</html>
+<h1> a java project with minikube , throgh jenkins </h1>
